@@ -57,7 +57,7 @@ export XDG_CACHE_HOME="$STATE_DIR/agents/main/qmd/xdg-cache"
 qmd collection list
 qmd update
 qmd embed
-qmd search "Robison" --json
+qmd search "memory test" --json
 ```
 
 ## Quick troubleshooting
